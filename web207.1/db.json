@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": "3403344331202442443002",
+      "title": "giay 1",
+      "price": "123",
+      "image": "123"
+    },
+    {
+      "id": "33302434200100121340232",
+      "title": "do binh an",
+      "price": "123",
+      "image": "1"
+    },
+    {
+      "id": "32203234340030214341221",
+      "title": "title 1",
+      "price": "129",
+      "image": "321"
+    }
+  ],
+  "users": [
+    {
+      "email": "andbph04890@fpt.edu.vn",
+      "password": "$2a$10$oDKHPXWQSrt1rnDhmesh3OY.Am18xDuMb7FG3vKH/NJTiArQWF0qC",
+      "name": "do binh an",
+      "id": 1
+    },
+    {
+      "email": "dovuducanh@gmail.com",
+      "password": "$2a$10$062h6E/eW1RfDLad9gloH.WEm721CtzbDg/bAOOGf8hbkEgl0iK/6",
+      "name": "do vu duc anh",
+      "id": 2
+    },
+    {
+      "email": "andbph04890@fpt.edu.vn123123",
+      "password": "$2a$10$db6hl1D92lN5H/CNq9T4zOe9Mohpyd/IrIdSBCO.FQED7tABkz34O",
+      "name": "dobinhan1",
+      "id": 3
+    }
+  ]
+}
